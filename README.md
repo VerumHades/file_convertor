@@ -17,7 +17,7 @@ A lightweight, clean Linux file manager extension that allows you to instantly c
 Clone the repository and run the automated installation script:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/nautilus-image-converter.git](https://github.com/YOUR_USERNAME/nautilus-image-converter.git)
+git clone https://github.com/VerumHades/file_convertor.git
 cd nautilus-image-converter
 chmod +x install/nautilus.sh
 ./install/nautilus.sh
