@@ -18,7 +18,7 @@ Clone the repository and run the automated installation script:
 
 ```bash
 git clone https://github.com/VerumHades/file_convertor.git
-cd nautilus-image-converter
+cd file_convertor
 chmod +x install/nautilus.sh
 ./install/nautilus.sh
 ```
