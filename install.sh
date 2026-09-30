@@ -2,7 +2,7 @@
 
 set -e
 
-REPOSITORY_URL="https://github.com/your-username/your-repo.git"
+REPOSITORY_URL="https://github.com/VerumHades/file_convertor.git"
 
 # Bootstrap check: If running remotely via curl, clone and re-execute
 if [ ! -d "./install" ] || [ ! -f "./image_converter_gui.py" ]; then

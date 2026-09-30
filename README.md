@@ -18,7 +18,7 @@ A file convertor tool that puts itself into the context menu of your chosen file
 
 ### Quick
 
->> ALWAYS CHECK WHATS IN SCRIPTS YOU EXECUTE BEFORE YOU DO SO, I am not doing anything nefarious but why trust me?
+> ALWAYS CHECK WHATS IN SCRIPTS YOU EXECUTE BEFORE YOU DO SO, I am not doing anything nefarious but why trust me?
 ```bash
 bash <(curl -sSL https://raw.githubusercontent.com/VerumHades/file_convertor/main/install.sh)
 ```
